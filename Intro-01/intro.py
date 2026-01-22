@@ -34,7 +34,7 @@
 ## EXAMPLE: conditionals/branching 
 ####################
 #x = float(input("Enter a number for x: "))
-#y = float(input("Enter a number for y: "))
+# = float(input("Enter a number for y: "))
 #if x == y:
 #    print("x and y are equal")
 #    if y != 0:
@@ -126,3 +126,6 @@
 ## imaginary perfect sqrts if given a negative num.
 ####################
 
+i=15
+j=4
+print(i%j)
